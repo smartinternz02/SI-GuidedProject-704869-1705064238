@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-twitter fa-fw fa-3x</name>
+   <tag></tag>
+   <elementGuidId>c031f30c-487e-4def-ae99-6b6162ccbe96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-twitter.fa-fw.fa-3x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>978c327d-8ff0-4618-8934-8bd70f9db61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-twitter fa-fw fa-3x</value>
+      <webElementGuid>fb39777b-d169-44bc-8b0f-e29d0f4eb929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-inline&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-twitter fa-fw fa-3x&quot;]</value>
+      <webElementGuid>5fb4dab0-7562-4720-afba-4d1e1c2340b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>122b5c82-783b-4c37-8cc6-e998ae7c2dbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
