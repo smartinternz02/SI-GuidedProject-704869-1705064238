@@ -18,6 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
